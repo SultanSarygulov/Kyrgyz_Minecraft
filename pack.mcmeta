@@ -1,0 +1,14 @@
+﻿{
+	"pack": {
+		"pack_format": 8,
+		"description": "Кыргыз тилин пагы"
+	},
+
+	"language": {
+		"kg_kg": {
+			"name": "Кыргызча",
+			"region": "Кыргызстан",
+			"bidirectional": false
+		}
+	}
+}
